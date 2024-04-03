@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Afacad:ital,wght@1,500&family=Anek+Tamil:wght@100..800&family=Black+Ops+One&family=Caveat:wght@400..700&family=DM+Serif+Display:ital@1&family=Dancing+Script:wght@700&family=Dhurjati&family=EB+Garamond:ital,wght@1,600&family=Ephesis&family=Grape+Nuts&family=Londrina+Sketch&family=Ojuju:wght@200..800&family=Palanquin:wght@100;200;300;400;500;600;700&family=Rubik+Microbe&family=Saira+Extra+Condensed:wght@900&family=Shadows+Into+Light&family=Smooch&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&family=Sue+Ellen+Francisco&family=The+Nautigal:wght@700&family=Truculenta:opsz,wght@12..72,100..900&family=Vujahday+Script&display=swap');
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: "Source Code Pro", monospace;
+}
+#lapicon{
+  color: aliceblue;
+  font-size: xx-large;
+  margin-right: 20px;
+}
+#nav{
+  color: aliceblue;
+}
+#foot{
+  border: 1px solid rgba(0, 0, 0, 0.597);
+  background-color:rgba(0, 0, 0, 0.308); 
+}
+#hed{
+  background-color:rgba(0, 0, 0, 0.308);
+}
